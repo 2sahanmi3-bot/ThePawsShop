@@ -1,0 +1,7 @@
+101,Pet Toy,Pet Toys,899,50
+102,Pet Harness,Harnesses,1199,30
+103,Pet Cage,Cages,6999,10
+104,Grooming Kit,Grooming Products,1999,25
+105,Pet Collar,Collars,599,100
+106,Pet Food,Food,1599,75
+107,Pet Biscuits,Food,1200.0,35

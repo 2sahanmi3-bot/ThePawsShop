@@ -1,0 +1,3 @@
+Manager|managerpass|Manager
+Cashier|cashierpass|Cashier
+Sahanmi|12345|Cashier

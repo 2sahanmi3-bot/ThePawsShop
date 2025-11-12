@@ -1,0 +1,4 @@
+T001|2024-12-26 23:23:30|Manager|Sahanmi|Pet Cage (x1 @ Rs. 6999.0)|6999.0|Cash
+T001|2024-12-26 23:25:24|Cashier|Vishwanath|Grooming Kit (x1 @ Rs. 1999.0)|1999.0|Mobile Payment
+T001|2024-12-26 23:26:51|Sahanmi|Sankanath|Pet Harness (x3 @ Rs. 1199.0)|3597.0|Card
+T001|2024-12-27 16:47:29|Manager|Sahanmi|Pet Toy (x1 @ Rs. 899.0)|899.0|Cash
